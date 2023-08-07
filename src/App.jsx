@@ -16,7 +16,7 @@ function App() {
         <br />
         <span className="contacttext">Hello!</span> This website has been created to provide sample project templates, content and guidance to assist those new to Front-End development. The purpose of the site is to provide support to people who have a basic knowledge of Front-End development but need guidance to practice and create projects.{" "}
         <br /> <br />
-        <a
+        <a className="realink"
           href="https://kinsta.com/knowledgebase/install-react/"
           target="_blank"
         >
@@ -99,6 +99,8 @@ function App() {
         <p></p>
       </div>
       <br />
+      <br /><br /><br /><br /><br />
+      <div className="erdemlabel"><a href="https://github.com/erdemonal11" target="_blank" className="erdemlabel">erdemapps.</a></div>
     </>
   );
 }

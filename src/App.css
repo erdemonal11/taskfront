@@ -173,6 +173,11 @@
   grid-row: 3;
 }
 
+.realink{
+  font-size: 25px;
+  color: #111;
+}
+
 
 .font{
   font-family: 'Space Mono', monospace;
@@ -241,5 +246,12 @@
   z-index: 1;
 }
 
+
+.erdemlabel {
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  color:#111;
+  animation: erdemlabel 35s linear infinite;
+}
 
 
