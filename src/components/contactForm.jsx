@@ -85,7 +85,7 @@ export default function ContactUs() {
             </div>
           </div>
           <ReCAPTCHA
-            sitekey="6LeWaxonAAAAAL7373759Xp6-5jG1LbcIMUPlmAw"
+            sitekey="6LdsOIknAAAAACHXt9R5eX8eQvxu8muopSDp7F6K"
             onChange={onChange}
           />
           <br />
