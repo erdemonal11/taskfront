@@ -100,7 +100,7 @@ const quiz4 = () => {
             <img src="youtube.png" alt="youtube" className="buttoimage" />
           </button>
         </a>
-        <a href="https://github.com/erdemonal11/movieapp" target="_blank">
+        <a href="https://github.com/erdemonal11/" target="_blank">
           <button className="button-2">
             <img src="github.png" alt="github" className="buttoimage" />
           </button>
